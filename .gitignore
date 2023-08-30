@@ -1,0 +1,8 @@
+# Ignore specific directories
+Library/
+Logs/
+UserSettings/
+
+# Ignore specific files
+Nguyen-D_m0_readme.txt
+Nguyen_D_m0.zip
